@@ -1,8 +1,8 @@
 # Building-REST-services-with-Spring
 
-# tutorials link:https://spring.io/guides/tutorials/rest/
+tutorials link:https://spring.io/guides/tutorials/rest/
 
-Summary
+# Summary
 Throughout this tutorial, you have engaged in various tactics to build REST API. As it turns out, REST isn’t just about pretty URIs and returning JSON instead of XML.
 
 Instead, the following tactics help make your services less likely to break existing clients you may or may not control:
